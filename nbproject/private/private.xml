@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Jenny/OneDrive/Documents/MPLABXProjects/PIC32/MX170F256D/Micro%20Quad%20Flight%20Controller.X/utilities/commandUI.c</file>
+            <file>file:/C:/Users/Jenny/OneDrive/Documents/MPLABXProjects/PIC32/MX170F256D/Micro%20Quad%20Flight%20Controller.X/peripherals/uart.c</file>
+            <file>file:/C:/Users/Jenny/OneDrive/Documents/MPLABXProjects/PIC32/MX170F256D/Micro%20Quad%20Flight%20Controller.X/devices/statusLED.c</file>
+            <file>file:/C:/Users/Jenny/OneDrive/Documents/MPLABXProjects/PIC32/MX170F256D/Micro%20Quad%20Flight%20Controller.X/peripherals/pwm.c</file>
+            <file>file:/C:/Users/Jenny/OneDrive/Documents/MPLABXProjects/PIC32/MX170F256D/Micro%20Quad%20Flight%20Controller.X/peripherals/vbatt.c</file>
+            <file>file:/C:/Users/Jenny/OneDrive/Documents/MPLABXProjects/PIC32/MX170F256D/Micro%20Quad%20Flight%20Controller.X/filters.c</file>
+            <file>file:/C:/Users/Jenny/OneDrive/Documents/MPLABXProjects/PIC32/MX170F256D/Micro%20Quad%20Flight%20Controller.X/peripherals/adc.c</file>
+            <file>file:/C:/Users/Jenny/OneDrive/Documents/MPLABXProjects/PIC32/MX170F256D/Micro%20Quad%20Flight%20Controller.X/pid.c</file>
+            <file>file:/C:/Users/Jenny/OneDrive/Documents/MPLABXProjects/PIC32/MX170F256D/Micro%20Quad%20Flight%20Controller.X/peripherals/pwm.h</file>
+            <file>file:/C:/Users/Jenny/OneDrive/Documents/MPLABXProjects/PIC32/MX170F256D/Micro%20Quad%20Flight%20Controller.X/main.c</file>
+            <file>file:/C:/Users/Jenny/OneDrive/Documents/MPLABXProjects/PIC32/MX170F256D/Micro%20Quad%20Flight%20Controller.X/devices/mpu9250.c</file>
+            <file>file:/C:/Users/Jenny/OneDrive/Documents/MPLABXProjects/PIC32/MX170F256D/Micro%20Quad%20Flight%20Controller.X/pidVar.c</file>
+        </group>
+    </open-files>
+</project-private>
